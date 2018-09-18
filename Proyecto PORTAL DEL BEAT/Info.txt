@@ -1,0 +1,14 @@
+Titulo: Portal del Beat.
+Intengrantes: Carlos Lizarazo
+              Cristian Sanchez
+
+
+Descripciòn del proyecto:
+
+El presente trabajo es con el fin de promover un portal web 
+donde se evidencie las respectivas novedades de los artistas junto con el costo de boletería,
+ acontecimientos que devenguen. Es un portal que como tal brinda beneficios tanto a las personas 
+interesadas a estas eventualidades como también a los artistas que hagan parte de la música electrónica;
+éste proyecto incentiva a que cada día en lo posible se logre evidenciar una gran cantidad de porcentajes
+a la taza de éste tipo de música, éste proyecto se realizo con la metodología de Bruno Murani, ya que permite 
+sintetizar y realizar paso a paso el presente proyecto. 
